@@ -1,0 +1,144 @@
+h3,
+h4,
+h5,
+h6,
+input {
+    font: inherit
+}
+
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0
+}
+
+.align-center {
+    text-align: center
+}
+
+.mbr-bold {
+    font-weight: 700
+}
+
+.mbr-jc-c {
+    justify-content: center
+}
+
+.mbr-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -1rem;
+    margin-left: -1rem
+}
+
+.mbr-col-lg-10 {
+    flex: 0 0 83.3333%;
+    max-width: 83.3333%;
+    padding-right: 1rem;
+    padding-left: 1rem
+}
+
+.display-5 {
+    font-family: 'Vollkorn', serif;
+    font-size: 1.5rem;
+    line-height: 1.2;
+}
+
+.cid-rtCLiyQMFx .tab {
+    padding: 30px 45px 20px 45px;
+    border: 1px solid #373737;
+    background-color: #ffffff;
+    transition: 0.3s;
+}
+
+.para-two::after {
+    content: '+';
+    position: absolute;
+    transition: all .3s;
+    width: 30px;
+    height: 30px;
+    color: #581be7;
+    border: 1px solid #373737;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    right: 0;
+}
+
+#para-two {
+    flex-direction: column;
+    margin-left: 1046px;
+    content: '+';
+    position: absolute;
+    transition: all .3s;
+    width: 30px;
+    height: 30px;
+    color: #581be7;
+    border: 1px solid #373737;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}
+
+#para-four {
+    flex-direction: column;
+    margin-left: 1046px;
+    position: absolute;
+    transition: all .3s;
+    width: 30px;
+    height: 30px;
+    color: #581be7;
+    border: 1px solid #373737;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -25px;
+}
+
+#para-six {
+    flex-direction: column;
+    margin-left: 1046px;
+    position: absolute;
+    transition: all .3s;
+    width: 30px;
+    height: 30px;
+    color: #581be7;
+    border: 1px solid #373737;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -25px;
+}
+
+#para-eight {
+    flex-direction: column;
+    margin-left: 1046px;
+    position: absolute;
+    transition: all .3s;
+    width: 30px;
+    height: 30px;
+    color: #581be7;
+    border: 1px solid #373737;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -25px;
+}
